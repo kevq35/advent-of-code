@@ -1,1 +1,1 @@
-Learning Rust - Advent of Code 2021 submissions
+Learning Rust - Advent of Code submissions
